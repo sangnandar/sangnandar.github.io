@@ -2,4 +2,4 @@ title: sangnandar
 description: Welcome to my GitHub Pages site!
 baseurl: "" # keep this empty for user site
 url: "https://sangnandar.github.io"
-theme: jekyll-theme-cayman
+theme: minima
